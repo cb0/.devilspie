@@ -1,0 +1,11 @@
+; generated_rule foo
+( if 
+( begin 
+( is ( application_name ) "Spotify Premium - Linux Preview" )
+) 
+( begin 
+( skip_pager )
+( skip_tasklist )
+( minimize )
+)
+)

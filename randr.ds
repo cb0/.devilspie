@@ -1,0 +1,10 @@
+; generated_rule randr
+( if 
+( begin 
+( is ( application_name ) "arandr" )
+) 
+( begin 
+( maximize )
+( above )
+)
+)
